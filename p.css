@@ -1,1 +1,58 @@
+.first{
+    font-size: 70px;
+    color: cornflowerblue;
+}
+.span{
+    color: darkgoldenrod;
+}
+.md{
+    color: red;
+    font-size: 40px;
 
+}
+.para{
+    font-size: 25px;
+    width: 50%;
+    font-family:'Poppins', sans-serif;
+
+}
+.pasapasi{
+    width: 100%;
+    height: 50%;
+    align-items: center;
+    display: flex;
+    border-bottom:20px red;
+    padding: 40px;
+    
+
+}
+.img img{ 
+    
+    width: 50%;
+    
+}
+#first{
+    
+    
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px ;
+    border-radius: 10px;
+    background-color: royalblue;
+    border:10px salmon;
+}
+.pmd{
+    font-size: 20px;
+    
+    font-family:'Poppins', sans-serif;}
+.span{
+    color: yellow;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;}
+.flexible{
+        display: flex;
+            margin-bottom: 100px;
+    }
